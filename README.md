@@ -10,3 +10,5 @@ O - first coloumn, 1- second coloum,
 0 here sepecifies from which coloumn the data is to be searched . in this case its first coloumn
 
 #Rows.txt should be tab-delimited file. if not working then try with comma delimited
+
+The results are stored in matched and unmatched txt files. 
